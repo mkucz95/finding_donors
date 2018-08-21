@@ -2,7 +2,7 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
-## View Work: in report.html
+## [Click to View Work:](http://htmlpreview.github.com/?https://github.com/mkucz95/finding_donors/blob/master/report.html)
 
 
 ### Description
