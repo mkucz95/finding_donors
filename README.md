@@ -18,8 +18,7 @@ You will also need to have software installed to run and execute an [iPython Not
 
 We recommend students install [Anaconda](https://www.continuum.io/downloads), a pre-packaged Python distribution that contains all of the necessary libraries and software for this project.
 
-### NB
-I have used Python Version 3.6.3 to complete this project.
+I have used _Python Version 3.6.3_ to complete this project.
 
 ### Code
 
